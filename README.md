@@ -1,4 +1,5 @@
 # Arcade Game
+[Demo Here](https://hajar-omar.github.io/arcade-game/)
 -It's a game between one player and more of enemies, they keep trying to not let the player goes to the water
 
 ## To Get Started
