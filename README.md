@@ -1,7 +1,7 @@
 # Arcade Game
-[Demo Here](https://hajar-omar.github.io/arcade-game/)
 -It's a game between one player and more of enemies, they keep trying to not let the player goes to the water
 
+[Demo Here](https://hajar-omar.github.io/arcade-game/)
 ## To Get Started
 1- Download or clone the project
 2- Open the terminal and run this commad 'npm install' to download the node packages
