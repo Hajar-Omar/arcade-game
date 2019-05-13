@@ -12,3 +12,6 @@
 ## How To Play
 - Try to not touch the enemies around the player, so stay away from them
 - The goal to reach to the water at the top of the game to win
+
+
+![picture here](https://i.ibb.co/W0ZvGsJ/Capture2.png)
